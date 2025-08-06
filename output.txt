@@ -1,0 +1,8 @@
+------ BEGIN TASK ONE OUTPUT ------
+MidasCoreApplication.java is present
+Transaction.java is present
+TransactionRepository.java is present
+TransactionService.java is present
+TransactionController.java is present
+------ END TASK ONE OUTPUT --------
+
